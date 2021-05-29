@@ -1,0 +1,9 @@
+Start
+Declare variables t,s,i,m
+Initialize the variables in string s
+The number of distinct characters in the string is less than 
+permutation of the elements of C satisfies 
+f(ci)=f(ci−1)+f(ci−2)
+Print  Dynamic
+If not print Not 
+End
